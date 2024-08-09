@@ -17,6 +17,12 @@ Here is the required design
 - **Render All Three Posts:** Used JavaScript to automatically render multiple posts, allowing for a dynamic and flexible layout.
 
 ## What I made
+
+
+https://github.com/user-attachments/assets/c3d750be-d28e-4be2-931b-f7556d7c74a4
+
+
 ## Live Website
+<a href="https://amna-iqbal.github.io/Oldagram/" target = "_blank" >My Oldagram Website</a>
 ## Acknowledgments
 This project was developed as part of the Scrimba Essential CSS Concepts course. A big thank you to the Scrimba team for providing this excellent learning resource!

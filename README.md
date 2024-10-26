@@ -4,7 +4,7 @@
 **Oldagram** is a solo project from the Scrimba Essential CSS Concepts course. The goal of the project was to create a simple and accessible web page that mimics a social media post, complete with interactive elements like "like buttons" and hover effects.
 Here is the required design
 
-<img width="230" alt="required" src="https://github.com/user-attachments/assets/beb531f6-3053-48cc-97a1-8f263b4a7445">
+<img width="230" alt="required" src="https://github.com/user-attachments/assets/d99c145e-e3ce-4019-9c3f-25993e6c1baa">
 
 ## Requirements
 - **Create the First Post:** Designed a single post using semantic HTML to ensure accessibility and maintainability.
@@ -18,9 +18,7 @@ Here is the required design
 
 ## What I made
 
-
-https://github.com/user-attachments/assets/c3d750be-d28e-4be2-931b-f7556d7c74a4
-
+https://github.com/user-attachments/assets/4d8a7d0b-e61e-484e-b828-ba43d90edfbf
 
 ## Live Website
 <a href="https://amna-iqbal.github.io/Oldagram/" target = "_blank" >My Oldagram Website</a>
